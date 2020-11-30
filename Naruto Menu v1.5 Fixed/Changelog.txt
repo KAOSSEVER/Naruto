@@ -1,0 +1,162 @@
+Naruto 1.1 Update
+---Fixes---
+Spawn by name Fixed
+selectedPlayer teleport Option fixed
+Player Crash Fixed
+
+---Self Options---
+Added Model Changer 
+Added SuperMan
+Added Forcefield
+Added Fire Breath
+
+---Misc Options---
+Added more options
+
+
+---Recovery Options---
+Fixed RP
+
+---Weapon Options---
+Added Cartoon Gun
+Added Airstrike Gun
+Added Object Gun
+Added Ped Gun
+Added Valkyrie Rocket Gun
+Added Explosive Gun
+Added Firework Gun
+
+---Teleport Options---
+Fixed
+Added More Places
+
+---PlayerList---
+Added Teleport player to Places
+Added Drop Player Snacks
+
+---Vehicle Options---
+Added Rainbow Vehicle
+Added Drift Mode
+Added Create Smoke
+Added Custom HornBoost
+
+---Protections---
+Protection Hook Updated
+
+
+---Hooking---
+Crahes Fixed
+Added Host Stealer
+
+
+
+NARUTO MOD MENU UPDATE 1.2
+---Recovery---
+Added SAFE 5Mil Stealth
+
+---Vehicle Options---
+Added LSC Custom
+
+---Misc---
+All Options Fixed
+Added BlackHole
+Added Ghost Rider 
+
+---Self---
+Outftis Editor
+Outfits
+
+
+
+NARUTO UPDATE 1.3
+
+---Self---
+Added Karma
+Added Ignored By Cops
+---Vehicle Options---
+Added Invisible Vehicle
+Added Sticky Tires
+Added Vehicle No Clip
+Added Matrix Plate
+Aded Teleport Personal vehicle to me
+Added Teleport in Last Vehicle
+
+---Vehicle Spawner---
+Added Modded Vehicle
+
+
+
+---Self---
+Added Off-Radar
+Added Run Speed Changer
+Added Ultra Jump
+Added Super Punch
+
+
+
+
+Naruto Update 1.4
+
+---GUI---
+-New GUI
+
+---Network---
+Added teleport in Vehicle
+Added RID Joiner
+Added Merryweather options
+Added Weather Options
+Added Host
+Added MODDER
+ADDED SELF
+
+
+---Playerlist---
+Added Vehicle Options
+Added Join Crew
+Added Shake Cam
+Added Explode Loop
+
+---Remote Options---
+Added Never Wanted
+Added Remote OTR
+Added Cops Blind Eye
+Added Camera Spam
+
+---Recovery---
+Added 8M Stealth
+Added Vehicle Stealth
+Added Sell Vehicle for 69M
+
+
+---Hooking---
+Added set_session_weather sig....
+
+
+
+Naruto 1.4 Fixes
+
+Fixed Slingshot Car
+Fixed Sell Vehicle Tutorial on Youtube
+Fixed 8M Stealth Maked to loop
+Fixed No RAGDOLL
+LSC Removed For Now
+KIll Player Remove For Now
+
+
+
+
+Naruto 1.5 Update Small Update
+
+---Self---
+Added BodyGuards
+
+---Network---
+Added NameChanger
+Added Attachments
+
+---Vehicle Spawner---
+Added Planes
+Added Offroad
+
+---Misc---
+Drive Train

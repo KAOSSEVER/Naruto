@@ -1,0 +1,11 @@
+2020-11-28 23:03:10 *NORMAL*     Started on Windows 10.0.0.18363 x64. Driver status: 0xC0000225
+2020-11-28 23:05:21 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 34076, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2020-11-28 23:05:21 *CRITICAL*   Injecting image 'C:\Users\kjd41\Downloads\Naruto Menu v1.5 Fixed\Naruto 1.5 Fixed.dll'
+2020-11-29 00:04:08 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 2208, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2020-11-29 00:04:08 *CRITICAL*   Injecting image 'C:\Users\kjd41\Downloads\Naruto Menu v1.5 Fixed\Naruto 1.5 Fixed.dll'
+2020-11-29 00:53:57 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 19288, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2020-11-29 00:53:57 *CRITICAL*   Injecting image 'C:\Users\kjd41\Downloads\Naruto Menu v1.5 Fixed\Naruto 1.5 Fixed.dll'
+
+2020-11-29 16:10:23 *NORMAL*     Started on Windows 10.0.0.18363 x64. Driver status: 0xC0000225
+2020-11-29 16:34:40 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 12220, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2020-11-29 16:34:40 *CRITICAL*   Injecting image 'C:\Users\kjd41\Downloads\Naruto Menu v1.5 Fixed\Naruto 1.5 Fixed.dll'
